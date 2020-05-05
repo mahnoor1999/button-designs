@@ -1,0 +1,90 @@
+*{
+    text-align: center;
+}
+h1{
+    color: #651f39;
+    text-align: center;
+}
+button{
+    font-size: 1.1em ;
+    margin: 0.5em;
+}
+button:hover{
+    cursor: pointer;
+}
+#cart{
+    color: white;
+    background-color: #c63928;
+    border: none;
+    padding: 1em 2em;
+}
+#cart:hover{
+    background-color: #f0776a;
+    
+
+}
+#start{
+    color: gold;
+    background-color: #2a61fb;
+    border-color: gold ;
+    padding: 0.6em 1.5em;
+    font-weight: bold;
+    border-width: 3px;
+}
+
+#start:hover{
+    color: gold;
+    background-color:  #214eca;
+    border-color: #214eca;
+
+}
+
+#login{
+    background-image: linear-gradient(to right, rgb(174, 238, 229) , rgb(6, 222, 241), rgb(118, 209, 118));
+     color: white;
+    border: none;
+    padding: 0.5em 2em;
+    border-radius: 25em;
+}
+
+#login:hover{
+    background-color: gray;
+    background-image: none;
+}
+#sign-up{
+    color: rgb(126, 17, 216);
+    background-color:white;
+    border-color: rgb(126, 17, 216) ;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+}
+#sign-up:hover{
+    background-color: rgb(126, 17, 216);
+    color:white;
+
+}
+#twitter{
+    color: #5eaade;
+    background-color:white;
+    border-color: #5eaade ;
+    padding:0.3em 0.4em;
+    border-radius: 6em;
+    border-width: 3px;
+}
+#twitter:hover{
+   background-color:  #5eaade;
+    color:white;
+
+}
+#subscribe{
+    background-image: linear-gradient(180deg, #fc4a1a 0%,#f7b733 100% );
+    color: white;
+   border: none;
+   padding: 0.5em 2em;
+  border-radius: 0.4em;
+
+}
+#subscribe:hover{
+    background-color: #fc4a1a ;
+    background-image: none;
+}
